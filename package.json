@@ -1,0 +1,8 @@
+{
+  "name": "terminal-explainer",
+  "version": "1.0.0",
+  "description": "Terminal error explainer using Gemini",
+  "scripts": {
+    "start": "python server.py"
+  }
+}
